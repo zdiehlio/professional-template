@@ -1,0 +1,59 @@
+@import './src/style/_vars.scss';
+
+.mythic-logo {
+  width: 100%;
+  float: left;
+  margin-top: 0px;
+}
+
+.main-page {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.nav-bar {
+  margin-bottom: 5em;
+  a {
+    background-color: black;
+    padding: 1em;
+    float: left;
+    width: calc(100% / 4);
+    color: $color-white;
+  }
+}
+
+.main-content {
+  padding: 4em;
+  p {
+    margin-top: 3em;
+  }
+}
+
+.icon {
+  width: 5em;
+  margin-top: 5em;
+  display: inline-block;
+  margin-left: 2em;
+  img {
+    text-align: center;
+  }
+}
+.final-choice {
+  text-align: center;
+  padding: 5em;
+  img{
+    width: 20%;
+    margin:auto;
+  }
+  p {
+    padding: 1em;
+  }
+}
+.social-tag {
+  width: 15em;
+  margin-top: 5em;
+  display: inline-block;
+  img {
+    text-align: center;
+  }
+}

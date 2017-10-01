@@ -1,0 +1,27 @@
+@import './src/style/_vars.scss';
+
+.landing{
+  color: $color-white;
+  div {
+    float:left;
+    margin-top: 3em;
+    margin-left: 1em;
+    width: calc(95%/3);
+  }
+  p {
+    color: $color-white
+  }
+  a {
+    width: 80%;
+    margin: auto;
+  }
+  img {
+    height: 15em;
+    width: 80%;
+    margin: auto;
+    border-radius: 50px;
+  }
+}
+#creative {
+  width:100%;
+}
