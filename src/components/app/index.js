@@ -15,7 +15,7 @@ class App extends Component {
           <div className='main-page'>
             <div className='nav-bar'>
               <Link to='/'> Home </Link>
-              <Link to='/about'> Our About </Link>
+              <Link to='/about'> About </Link>
               <Link to='/team'> Team </Link>
               <Link to='/connect'> Connect </Link>
             </div>

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './quest.css'
+import './about.css'
 
 class Quest extends React.Component {
   render() {
